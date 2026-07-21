@@ -1,7 +1,10 @@
-# Create Project Lingnan vision and roadmap
+# Project Lingnan
+
+**AI × Cross-border Wealth Management**
+
 ---
 
-# 1. Vision（愿景）
+## 1. Vision（愿景）
 
 成为具备：
 
@@ -18,7 +21,7 @@
 
 ---
 
-# 2. Background（背景）
+## 2. Background（背景）
 
 当前基础：
 
@@ -32,7 +35,7 @@ AI + 金融 + 横琴跨境金融。
 
 ---
 
-# 3. Core Question（核心问题）
+## 3. Core Question（核心问题）
 
 如何帮助跨境家庭解决：
 
@@ -45,9 +48,9 @@ AI + 金融 + 横琴跨境金融。
 
 ---
 
-# 4. Competency Model（能力模型）
+## 4. Competency Model（能力模型）
 
-## Level 1
+### Level 1
 金融基础
 
 理解：
@@ -59,7 +62,7 @@ AI + 金融 + 横琴跨境金融。
 - 信托
 
 
-## Level 2
+### Level 2
 投资分析
 
 能够分析：
@@ -69,7 +72,7 @@ AI + 金融 + 横琴跨境金融。
 - 资产配置
 
 
-## Level 3
+### Level 3
 财富规划
 
 能够设计：
@@ -78,7 +81,7 @@ AI + 金融 + 横琴跨境金融。
 - 风险管理方案
 
 
-## Level 4
+### Level 4
 跨境体系
 
 理解：
@@ -90,7 +93,7 @@ AI + 金融 + 横琴跨境金融。
 金融、法律和制度差异。
 
 
-## Level 5
+### Level 5
 AI赋能
 
 构建：
@@ -101,9 +104,9 @@ AI赋能
 
 ---
 
-# 5. Roadmap（路线）
+## 5. Roadmap（路线）
 
-## 2026
+### 2026
 
 基础建设：
 
@@ -113,7 +116,7 @@ AI赋能
 - AI工具建设
 
 
-## 2027
+### 2027
 
 能力深化：
 
@@ -122,7 +125,7 @@ AI赋能
 - AI Agent应用
 
 
-## 2028
+### 2028
 
 成果输出：
 
@@ -132,51 +135,51 @@ AI赋能
 
 ---
 
-# 6. Knowledge System（知识体系）
+## 6. Knowledge System（知识体系）
 
-## Finance
+### Finance
 
 金融市场基础
 
-## Wealth Management
+### Wealth Management
 
 财富管理
 
-## Law
+### Law
 
 法律
 
-## Tax
+### Tax
 
 税务
 
-## Insurance
+### Insurance
 
 保险
 
-## Trust
+### Trust
 
 信托
 
-## Hengqin
+### Hengqin
 
 横琴政策
 
-## Macau
+### Macau
 
 澳门金融
 
-## Hong Kong
+### Hong Kong
 
 香港金融
 
-## AI
+### AI
 
 人工智能工具
 
 ---
 
-# 7. Output（成果）
+## 7. Output（成果）
 
 最终形成：
 
@@ -188,7 +191,7 @@ AI赋能
 
 ---
 
-# 8. Learning Principle
+## 8. Learning Principle
 
 不是：
 
